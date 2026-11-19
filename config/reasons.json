@@ -1,0 +1,42 @@
+[
+  {
+    "key": "status_enquiry",
+    "label": "Status enquiry",
+    "examples": "What is the strata title status? When will my title be transferred?"
+  },
+  {
+    "key": "document_request",
+    "label": "Document request",
+    "examples": "What pending documents are required?"
+  },
+  {
+    "key": "progress_update",
+    "label": "Progress update",
+    "examples": "Asking for an update on how the file is progressing, or giving one."
+  },
+  {
+    "key": "complaint",
+    "label": "Complaint",
+    "examples": "Complaint about the PIC, delayed response, unable to reach the PIC, no update, documents released or sent wrongly."
+  },
+  {
+    "key": "payment",
+    "label": "Payment",
+    "examples": "How much needs to be paid, how to pay, which account to pay into."
+  },
+  {
+    "key": "collection",
+    "label": "Collection",
+    "examples": "Collecting the MOT, clearance letter, NOA."
+  },
+  {
+    "key": "pic_contact",
+    "label": "Request for PIC contact",
+    "examples": "Asking for the PIC's email address, office or handphone number, or the department HOD."
+  },
+  {
+    "key": "others",
+    "label": "Others",
+    "examples": "Change of correspondence address, repeated calls just to speak with the PIC, anything else."
+  }
+]

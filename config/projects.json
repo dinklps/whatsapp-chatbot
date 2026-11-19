@@ -1,0 +1,49 @@
+{
+  "_comment": "PLACEHOLDER DATA. Replace with the real project -> staff list. WhatsApp numbers are digits only with country code (e.g. 60123456789).",
+  "staff": {
+    "duty": {
+      "name": "Duty Desk",
+      "whatsapp": "60000000000",
+      "email": "duty@example.com",
+      "office": "03-0000 0000"
+    },
+    "pic_a": {
+      "name": "PIC A (placeholder)",
+      "whatsapp": "60000000001",
+      "email": "pic.a@example.com",
+      "office": "03-0000 0001"
+    },
+    "pic_b": {
+      "name": "PIC B (placeholder)",
+      "whatsapp": "60000000002",
+      "email": "pic.b@example.com",
+      "office": "03-0000 0002"
+    },
+    "hod": {
+      "name": "Head of Department (placeholder)",
+      "whatsapp": "60000000009",
+      "email": "hod@example.com",
+      "office": "03-0000 0009"
+    }
+  },
+  "default_pic": "duty",
+  "default_hod": "hod",
+  "projects": [
+    {
+      "key": "sample-residence",
+      "name": "Sample Residence",
+      "aliases": ["Sample Residences", "Residensi Sample"],
+      "location": "Kuala Lumpur",
+      "pic": "pic_a",
+      "hod": "hod"
+    },
+    {
+      "key": "example-heights",
+      "name": "Example Heights",
+      "aliases": ["Example Height", "EH"],
+      "location": "Petaling Jaya",
+      "pic": "pic_b",
+      "hod": "hod"
+    }
+  ]
+}
